@@ -1,7 +1,7 @@
 
 ---
 
-# Birthday Reminder with WhatsApp Integration
+# Birthday Wish with WhatsApp Integration
 
 This project is a Python-based Birthday Reminder system that automatically sends WhatsApp messages to remind users of birthdays on the current day. It uses `pywhatkit` for WhatsApp message automation and `pandas` for data manipulation.
 
